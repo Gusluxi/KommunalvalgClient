@@ -1,0 +1,33 @@
+body {
+    font-family: Times, Times New Roman, serif;
+    background-color: #adc6ad;
+}
+
+#menu-bar {
+    padding: 15px;
+    background-color: #eaeaea;
+    margin: auto;
+    width:80%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.menu-button {
+    width: 200px;
+    height: 50px;
+    line-height: 1.3rem;
+    font-size: 1.3rem;
+    border-radius: 6px;
+    background-color: darkgreen;
+    color: white;
+    font-family: Times, Times New Roman, serif;
+}
+
+.menu-a {
+    margin: 12px;
+}
+
+#button-div {
+    display: inline-block;
+    margin: 0 auto;
+}

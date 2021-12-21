@@ -1,0 +1,20 @@
+#parties-wrapper-div {
+    width:80%;
+    margin: 15px auto auto;
+    background-color: darkgreen;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.party-card-div {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    flex-grow: 1;
+
+}
+
+.party-image {
+    width: 300px;
+}

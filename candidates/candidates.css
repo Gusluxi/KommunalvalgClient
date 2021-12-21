@@ -1,0 +1,52 @@
+#filter-wrapper {
+    width:80%;
+    margin: 15px auto auto;
+    display: flex;
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    font-size: 1.3rem;
+}
+
+#filter-parties {
+    margin-left: 36%;
+
+}
+#filter-candidates {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#table-wrapper {
+    margin: auto;
+    width:80%;
+    background-color: darkgreen;
+    padding: 10px;
+
+}
+#candidate-table,
+#candidate-table tr,
+#candidate-table td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #eaeaea;
+    color: black;
+    text-align: center;
+}
+#candidate-table th {
+    background-color: #169617;
+    color: white;
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+}
+#candidate-table td {
+    height: 50px;
+    width: 100px;
+}
+
+#candidate-table {
+    width: 100%;
+    font-size: 1.3rem;
+}

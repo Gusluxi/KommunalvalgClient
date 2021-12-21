@@ -1,0 +1,16 @@
+#main-div {
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#city-map {
+    width: 80%;
+    border-radius: 6px;
+    padding: 20px;
+}

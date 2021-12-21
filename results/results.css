@@ -1,0 +1,39 @@
+#result-wrapper-div {
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    background-color: darkgreen;
+    color: white;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #eaeaea;
+    color: black;
+}
+
+table {
+    width: 100%;
+    font-size: 1.3rem;
+}
+
+tr {
+
+}
+
+td {
+    padding: 10px;
+}
+
+th {
+    background-color: #169617;
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.percent-votes-bar {
+    height: 20px;
+    background-color: dodgerblue;
+}
